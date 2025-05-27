@@ -50,6 +50,10 @@ body {
   color: #14532d;
 }
 
+.nav-logo span {
+  color: #14532d; /* EcoFit Mats color */
+}
+
 .nav-menu {
   display: flex;
   gap: 2.2rem;
@@ -60,7 +64,7 @@ body {
 }
 
 .nav-menu li a {
-  color: #eaffea;
+  color: #14532d; /* Match EcoFit Mats color */
   text-decoration: none;
   font-size: 1.08rem;
   font-weight: 500;
